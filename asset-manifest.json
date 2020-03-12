@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactcalsi/static/css/main.ddea0087.chunk.css",
+    "main.js": "/reactcalsi/static/js/main.ac0884f0.chunk.js",
+    "main.js.map": "/reactcalsi/static/js/main.ac0884f0.chunk.js.map",
+    "runtime-main.js": "/reactcalsi/static/js/runtime-main.527e8944.js",
+    "runtime-main.js.map": "/reactcalsi/static/js/runtime-main.527e8944.js.map",
+    "static/css/2.de424728.chunk.css": "/reactcalsi/static/css/2.de424728.chunk.css",
+    "static/js/2.94e5daf0.chunk.js": "/reactcalsi/static/js/2.94e5daf0.chunk.js",
+    "static/js/2.94e5daf0.chunk.js.map": "/reactcalsi/static/js/2.94e5daf0.chunk.js.map",
+    "index.html": "/reactcalsi/index.html",
+    "precache-manifest.acac7931c07650613ca147d63787a003.js": "/reactcalsi/precache-manifest.acac7931c07650613ca147d63787a003.js",
+    "service-worker.js": "/reactcalsi/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/reactcalsi/static/css/2.de424728.chunk.css.map",
+    "static/css/main.ddea0087.chunk.css.map": "/reactcalsi/static/css/main.ddea0087.chunk.css.map",
+    "static/js/2.94e5daf0.chunk.js.LICENSE.txt": "/reactcalsi/static/js/2.94e5daf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.527e8944.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.94e5daf0.chunk.js",
+    "static/css/main.ddea0087.chunk.css",
+    "static/js/main.ac0884f0.chunk.js"
+  ]
+}
