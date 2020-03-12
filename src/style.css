@@ -1,0 +1,48 @@
+.display{
+    height: 80px;
+    border: 1px solid brown;
+}
+
+.clearborder{
+    width:366px;
+    border:1px solid brown; 
+    height: 55px;
+}
+.innerborder{
+    border:1px solid brown;
+    width:122px;
+    height: 35px;
+}
+.inb{
+    width:122px;
+    border:1px solid brown;
+    height: 50px;
+}
+.inb1{
+    width:122px;
+    border:1px solid brown;
+    height: 55px;
+}
+input[type=text] {
+    background-color: rgb(68, 4, 4);
+    border: 1px solid brown;
+    height: 80px;
+    color:whitesmoke;
+    text-align:right;
+  }
+.font{
+    font-size: 30px;
+}
+.font1{
+   
+    font-size: 30px;
+    font-weight: 900px;
+    color: seashell;
+}
+  .bg{
+      background-color: red;
+  }
+  .head{
+      font-size: 30px;
+      color: red;
+  }
