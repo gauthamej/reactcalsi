@@ -53,9 +53,9 @@ class Calci extends React.Component{
       return(
           <div className="container-fluid ">
               <div className="row mt-4">
-                <div className="col-4"></div>
+                <div className="col-3"></div>
 
-                <div className="col-4 ">
+                <div className="col-6 ">
                   <div className="text-center head">CALCULATOR</div>
                  
                    <div className="d-flex flex-column flex-wrap-reverse bd-highlight mt-3 bg">
@@ -91,7 +91,7 @@ class Calci extends React.Component{
                   </div>
                   
                 </div>
-                <div className="col-4"></div>
+                <div className="col-3"></div>
               </div>
           </div>
       )
